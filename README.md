@@ -27,8 +27,13 @@ Project Doppelganger is a data science project that utilizes facial recognition 
 
 
 ## Contributors
+This project was created by the following contributors:
 
-
+- [Daniel Alejandro Bernal Eckstein](https://github.com/danecks)
+- [Jean-Baptiste](https://github.com/jb-paris)
+- [Lorenzo Zinna](https://github.com/LorenzoZInna)
+- [Nil Barcons](https://github.com/Nil-Barcons)
+- [Noor Matalka](https://github.com/nmatalka)
 ![contribute](https://github.com/MunawarJohar/project_doppelganger/assets/106137102/1b2c97c7-789f-4558-8773-1f829692ffa2)
 
 ## Startup the project
