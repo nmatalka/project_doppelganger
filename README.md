@@ -27,7 +27,7 @@ Project Doppelganger is a data science project that utilizes facial recognition 
 
 
 ## Contributors
-This project was created by the following contributors:
+This project was created by the following contributors, as a part of the Data Science course, batch #1455 :
 
 - [Daniel Alejandro Bernal Eckstein](https://github.com/danecks)
 - [Jean-Baptiste](https://github.com/jb-paris)
